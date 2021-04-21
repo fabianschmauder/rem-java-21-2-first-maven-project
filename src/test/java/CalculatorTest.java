@@ -11,7 +11,7 @@ public class CalculatorTest {
         //GIVEN
         int value1 = 3;
         int value2 = 5;
-        //some test push
+        //some test push 2
 
         //WHEN
         int sum = Calculator.add(value1, value2);
